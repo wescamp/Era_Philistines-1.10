@@ -1,7 +1,26 @@
-
-		  -----= ERA PHILISTINES =-----
 			 CHANGELOG
+________________________________________________________________________________
 
+
+
+
+Version 1.9.0
+ = new version numbering
+ = took out some sprites and units to fit 'The Southern Alliance'
+	- added campaign.cfg into 'The Southern Alliance'
+	- units left are:
+	-- Samaritan Spearman (lvl1) -
+	 	_|-Samaritan Sergeant (lvl2)
+		 |-Samaritan Captain (lvl2) - Samaritan Kyrios (lvl3)
+ = placed in new sprites:
+	- units from Battle for Meridia by 'thespaceinvader'
+	-- fauna (boar) units (tusklet, tusker, gorer)
+ = added in game menue item 
+	- CALLTHEBOAR & 
+	- ABILITY_CALLTHEBOAR 
+	-- for Samaritan Sergeant 
+
+	
 
 Version 0.11.8.4
  = minor edits due to maintenance
@@ -16,4 +35,6 @@ Version 0.11.8.1
  = Featured by 'Era_of_Bronze_Age_Clashes'.
 
 .....................................................................
-Initially released End of January, 2014 on 1.10.x and 1.11.x servers. Fine Art by 'Major'.
+Initially released End of January, 2014 on 1.10.x and 1.11.x servers. 
+Fine Art by 'Major'.
+
