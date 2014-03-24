@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Era_Philistines-1.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-24 04:13+0100\n"
+"PO-Revision-Date: 2014-03-24 04:13+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. [textdomain]
+#: Era_Philistines/_main.cfg:26
+msgid "EPh"
+msgstr ""
+
+#. [era]: id=EPhi
+#: Era_Philistines/_main.cfg:50
+msgid "Default + Philistines"
+msgstr ""
+
+#. [multiplayer_side]: id=era_philistines, type=Samaritan_Captain, type=Samaritan_Captain
+#: Era_Philistines/faction.cfg:4
+msgid "Philistines"
+msgstr ""
